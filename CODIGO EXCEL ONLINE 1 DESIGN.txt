@@ -1,0 +1,282 @@
+function Boletim() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Boletim');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Disciplinas() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Disciplinas');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ALNS() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ALNS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function LP() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('LP');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ART() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ART');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ED_FIS() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ED_FIS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ING() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ING');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ESP() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ESP');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function HIST() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('HIST');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function GEO() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('GEO');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function FIL() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('FIL');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function SOC() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('SOCS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function QUI() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('QUI');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function FIS() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('FIS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function BIO() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('BIO');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function MAT() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('MAT');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ED_FIS() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ED_FIS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function EstudoOrientado() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('EstudoOrientado');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Prota_juvenil() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Prota_juvenil');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Pratica_experi() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Pratica_experi');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ELET() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ELET');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function ED_FIS() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ED_FIS');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Projeto_de_vida() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Projeto_de_vida');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Educ_tec_mid() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Educ_tec_mid');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function intervcom() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('intervcom');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function EP() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('EP');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+
+function ISC() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('ISC');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+
+function Higie_Segu_trab() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Higie_Segu_trab');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Hist_cult_des() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Hist_cult_des');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Pro_Cri_Desi() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Pro_Cri_Desi');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Funda_desenho() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Funda_desenho');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Desen_Pesq_Mercado() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Desen_Pesq_Mercado');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+
+function Modela_Graf_cal() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Modela_Graf_cal');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+
+function Profabdc() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Profabdc');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function SustentMat() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('SustentMAt');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Modelagem_plana_Cal() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Modelagem_plana_Cal');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Proces_cria_designII() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Proces_cria_designII');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Modela_Cal_3D() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Modela_Cal_3D');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function DesProjeto1() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('DesProjeto1');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+
+function Desenv_de_Projeto2() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Desenv_de_Projeto2');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Gest_logis_Inov() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Gest_logis_Inov');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+function Metod_Cientif_design() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Metod_Cientif_design');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
+
+function Plan_Contr_Prod_desig(){
+  var sheet = SpreadsheetApp.getActiveSpreadsheet();
+  var planilha = sheet.getSheetByName('Plan_Contr_Prod_desig');
+  SpreadsheetApp.setActiveSheet(planilha);
+}
+
